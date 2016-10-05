@@ -1,1 +1,1 @@
-this is a text file
+BUG FIXED - this is a text file
